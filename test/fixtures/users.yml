@@ -11,3 +11,10 @@ tester:
   email: "tester@gmail.com"
  
   profile_name: "Tester"
+
+mike:
+  first_name: "Mike"
+  last_name: "Frog"
+  email: "mike@gmail.com"
+  profile_name: :mikethefrog"
+
