@@ -4,3 +4,10 @@ alicia:
   email: "aliciaht@gmail.com"
  
   profile_name: "Alicia"
+
+tester:
+  first_name: "Tester_First"
+  last_name: "Tester_Last"
+  email: "tester@gmail.com"
+ 
+  profile_name: "Tester"

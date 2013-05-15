@@ -18,4 +18,7 @@ class ProfilesControllerTest < ActionController::TestCase
   	assert_not_empty assigns(:statuses)
   end
 
+
+
+
 end
