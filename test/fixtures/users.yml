@@ -2,7 +2,7 @@ alicia:
   first_name: "Alicia"
   last_name: "Tan"
   email: "aliciaht@gmail.com"
- 
+  encrypted_password: $2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq
   profile_name: "Alicia"
 
 tester:
@@ -16,5 +16,5 @@ mike:
   first_name: "Mike"
   last_name: "Frog"
   email: "mike@gmail.com"
-  profile_name: :mikethefrog"
+  profile_name: "mikethefrog"
 
