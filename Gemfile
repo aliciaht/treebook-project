@@ -11,6 +11,8 @@ gem 'rails', '3.2.13'
 gem 'devise'
 gem 'simple_form'
 gem 'country_select'
+gem 'state_machine'
+gem 'factory_girl_rails'
 
 group :production do 
 	gem 'pg'
