@@ -13,6 +13,7 @@ gem 'simple_form'
 gem 'country_select'
 gem 'state_machine'
 gem 'factory_girl_rails'
+gem 'draper'
 
 group :production do 
 	gem 'pg'
